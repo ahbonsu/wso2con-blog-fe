@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif; // Apply Plus Jakarta Sans globally
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', sans-serif; // Apply to headings
+  }
+  
+  p, div, span, a {
+    font-family: 'Plus Jakarta Sans', sans-serif; // Apply to other text elements
+  }
