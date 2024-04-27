@@ -1,0 +1,21 @@
+.blog-entry {
+  padding: 20px; // Padding around the entire entry
+  border: 1px solid #ccc; // Light gray border around the entry
+  background-color: #f9f9f9; // Background color for readability
+  border-radius: 8px; // Optional: rounding the corners
+}
+
+.blog-header {
+  font-size: 1.1em; // Slightly larger font for the header
+  margin-bottom: 10px; // Space below the header
+}
+
+hr {
+  border: none; // Remove default border
+  border-top: 1px solid #ccc; // Light gray horizontal line
+  margin: 10px 0; // Space above and below the HR
+}
+
+.blog-content {
+  font-size: 1em; // Default font size for the blog content
+}

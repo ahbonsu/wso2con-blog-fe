@@ -1,0 +1,29 @@
+/* src/app/app.component.scss */
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: purple;
+  }
+
+  .logo {
+    height: 40px; 
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+
+  .content-wrapper {
+    display: flex; // Flex layout to position the menu and blog entry
+    flex: 1
+  }
+  
